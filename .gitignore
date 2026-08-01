@@ -1,0 +1,11 @@
+# Microsoft Office temp/lock files
+~$*
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Python cache (in case any code projects reuse this pattern)
+__pycache__/
+*.pyc
+.pytest_cache/
